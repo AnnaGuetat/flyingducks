@@ -21,6 +21,8 @@ Additional motivation came from understanding where the technology is heading an
 For lane following the focus is on demo: 
 
    Code: https://docs.duckietown.org/DT19/opmanual_duckiebot/out/demo_lane_following.html
+   
+   Code also in folder sim-duckiebot-lanefollowing-demo-master
 
 For obstacle detection: 
 
@@ -44,6 +46,8 @@ Future work:
        - Learn SLAM (simultaneous localisation & mapping)
        
 DRONE:
+
+All in folder titled drone.
 
 Scope: 
 Installation of Ubuntu on VM and dedicated laptop
