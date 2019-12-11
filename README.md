@@ -12,6 +12,7 @@ Team:
 Motivation:
 We have decided to start on both setups autonomous drive and flight. We have equipment available for both, and our curiosity drives us towards trying both initially and choosing along the way on the final project.  
  
+BOT:
 For autonomous drive, the focus is line following with obstacle detection.
 
 Focus of this repository is Duckiebot and motivation to learn with hands on experience autonomous drive and fly systems with focus on lane following and  obstacle detection.
@@ -41,4 +42,22 @@ Future work:
        - Classifying detected objects (e.g. ducks, other vehicles)
        - Object tracking
        - Learn SLAM (simultaneous localisation & mapping)
+       
+DRONE:
+
+Scope: 
+Installation of Ubuntu on VM and dedicated laptop
+Setting up a virtual environment for code testing on both machines
+Basic take-off and landing test on physical drone
+Basic movement of drone
+Developing an algorithm for precision landing
+Test of algorithm on physical drone.
+
+FUTURE WORK: 
+After mastering the whole necessary process of flight, the next step would be obstacle avoidance or performing some indoor flying - distinguishing how far from walls the drone is and correcting its position to be able to fly through door frames.
+Above objective could be an initial step for drone racing league where based on vision drone flies through gates as fast as possible.
+Creating an endpoint for a holder in drone to drop cargo on target.
+Creating a waterproof drone and testing how it behaves in rainy conditions.
+
+
 
